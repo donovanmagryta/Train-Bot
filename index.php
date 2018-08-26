@@ -1,7 +1,7 @@
 <?php
 $mode = urldecode($_GET["mode"]); //read or train or train type.
 $name = urldecode($_GET["last name"]);
-$priority = urldecode($_GET["$priority"]);
+$priority = urldecode($_GET["priority"]);
 $model = urldecode($_GET["model"]);
 $desc = urldecode($_GET["desc"]);
 $num = urldecode($_GET["num"]);
