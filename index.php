@@ -14,7 +14,7 @@ echo $reply;
 }
 
 if ($mode == 'get report') {
-echo '{"messages": [{"attachment": {"type": "file","payload": {"url": "https://socratic.000webhostapp.com/report.csv"}}}]}';
+echo '{"messages": [{"attachment": {"type": "file","payload": {"url": "https:myphpserver.com/report.csv"}}}]}';
 }
 
 
