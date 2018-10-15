@@ -1,2 +1,2 @@
 # Train-Bot
-PHP Backend for Chatbot V3
+PHP Backend for Chatfuel chatbot trainable through conversation.
